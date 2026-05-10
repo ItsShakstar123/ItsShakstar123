@@ -49,7 +49,7 @@ Personal safety and activity tracking app featuring live location mapping, trust
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="165"> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME"> </p>
 📫 Connect With Me
-💼 LinkedIn: LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/shakil-hussain
 📧 Email: shakilh@hotmail.com
 ⚡ Fun Fact
 
